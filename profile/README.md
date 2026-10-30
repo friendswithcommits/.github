@@ -9,7 +9,7 @@ No slides, no sales pitch. Just friends with commits.
 ## Hosts
 
 - **[Johannes Wachter](https://github.com/wachterjohannes)**, the maintainer. Core developer of Sulu, Symfony AI core team, author of Symfony Mate.
-- **Alexander Bürner**, the practitioner. Uses open source tools in client projects and hosts [devslove.it](https://devslove.it).
+- **[Alexander Bürner](https://github.com/alexanderbuerner)**, the practitioner. Uses open source tools in client projects and hosts [devslove.it](https://devslove.it).
 
 ## The question every guest gets
 
