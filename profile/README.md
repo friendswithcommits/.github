@@ -18,6 +18,7 @@ No slides, no sales pitch. Just friends with commits.
 ## Links
 
 - Website: [friendswithcommits.dev](https://friendswithcommits.dev)
+- LinkedIn: [Friends with Commits](https://www.linkedin.com/company/friendswithcommits)
 - Contact: [hello@friendswithcommits.dev](mailto:hello@friendswithcommits.dev)
 - Source of the website: [friendswithcommits/website](https://github.com/friendswithcommits/website)
 
